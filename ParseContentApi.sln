@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseContentApi", "ParseContentApi\ParseContentApi.csproj", "{6CBE4DA1-3921-4A02-8DF9-D4599DAA03D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseContentApi.Tests", "ParseContentApi.Tests\ParseContentApi.Tests.csproj", "{23DCAFA8-E2B2-4531-8F9E-8DA5B86A43D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{6CBE4DA1-3921-4A02-8DF9-D4599DAA03D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CBE4DA1-3921-4A02-8DF9-D4599DAA03D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CBE4DA1-3921-4A02-8DF9-D4599DAA03D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23DCAFA8-E2B2-4531-8F9E-8DA5B86A43D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23DCAFA8-E2B2-4531-8F9E-8DA5B86A43D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23DCAFA8-E2B2-4531-8F9E-8DA5B86A43D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23DCAFA8-E2B2-4531-8F9E-8DA5B86A43D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
